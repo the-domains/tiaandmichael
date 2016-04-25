@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TiaAndMichael]]></title>
-        <description><![CDATA[TiaAndMichael]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Wedding of Tia and Michael]]></title>
+        <description><![CDATA[Wedding of Tia and Michael]]></description>
+        <link>https://thegrid.ai/tiaandmichael/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 13:32:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 13:36:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tiaandmichael/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d518ec14-1724-46ee-8b8b-9d4a6771d5a0.jpg">]]></description>
+            <link>https://thegrid.ai/tiaandmichael/34870c51-3eba-4dd6-9142-ad1c4c834090/index.html</link>
+            <guid isPermaLink="false">34870c51-3eba-4dd6-9142-ad1c4c834090</guid>
+            <pubDate>Mon, 25 Apr 2016 13:36:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Tia and Michael are getting married and we would like to invite you to our celebration! </p>]]></description>
-            <link>undefinedtia-and-michael-are-getting-married-and-we-would-like-to-inv/index.html</link>
+            <link>https://thegrid.ai/tiaandmichael/tia-and-michael-are-getting-married-and-we-would-like-to-inv/index.html</link>
             <guid isPermaLink="false">8820a830-4391-43b3-8a68-a224e55ad675</guid>
             <pubDate>Mon, 25 Apr 2016 13:31:40 GMT</pubDate>
         </item>
