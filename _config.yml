@@ -1,6 +1,6 @@
 name: TiaAndMichael
 favicon: null
-layout_spectrum: 0.49447
+layout_spectrum: 0.63153
 typography_spectrum: 0.87601
 title: Wedding of Tia and Michael
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fafffa'
-    - '#5fa1fe'
-    - '#040700'
-    - '#6f605b'
-    - '#b7c285'
-  brandStrength: 0.1875
-  lightness: 0.25
+    - '#ccebff'
+    - '#1e1609'
+    - '#716e75'
+    - '#feed67'
+    - '#33487f'
+  brandStrength: 0.5
+  lightness: 1
   saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
